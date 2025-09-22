@@ -9,9 +9,9 @@ Este sistema automatizado resuelve estos problemas permitiendo el registro ágil
 
 
 # Widgets
-1 - QLabel: Para textos y etiquetas
-2 - QLineEdit: Campos de entrada de texto
-3 - QTextEdit: Área de visualización de resultados
-4 - QPushButton: Botones de acción
-5 - QComboBox: Lista desplegable de materias
-6 - QMessageBox:Mensajes al usuario
+1. **QLabel**: Para textos y etiquetas en la interfaz
+2. **QLineEdit**: Campos de entrada de texto para nombre y calificación
+3. **QTextEdit**: Área de visualización de resultados de estudiantes
+4. **QPushButton**: Botones de acción (Agregar, Calcular Promedio, Limpiar Lista)
+5. **QComboBox**: Lista desplegable de materias (Matemáticas, Lenguajes, Sociales, Ciencia)
+6. **QMessageBox**: Mensajes de alerta, confirmación e información al usuario
