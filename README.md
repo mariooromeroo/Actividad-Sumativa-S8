@@ -1,5 +1,5 @@
-# Actividad-Sumativa-S8
-Interfaz gráfica con el uso de la biblioteca de PyQt5.
+# Actividad Sumativa S8
+Estudiante: Mario Antonio Salamanca Romero (SMSS085424)
 
 # Problemática
 La gestión manual de calificaciones en instituciones educativas conlleva ineficiencias significativas, como el consumo excesivo de tiempo en cálculos de promedios, alto riesgo de errores humanos en operaciones matemáticas y registros, dificultad para analizar el rendimiento académico grupal debido a datos dispersos en múltiples formatos, y la falta de una herramienta accesible que permita a los docentes registrar, visualizar y analizar las calificaciones de manera inmediata y confiable, lo que afecta la precisión evaluativa y la toma de decisiones pedagógicas oportunas.
@@ -9,9 +9,9 @@ Este sistema automatizado resuelve estos problemas permitiendo el registro ágil
 
 
 # Widgets
-**QPushButton**: Botones de acción (Agregar, Calcular Promedio, Limpiar Lista)
-**QLineEdit**: Campos de entrada de texto para nombre y calificación.
-**QTextEdit**: Área de visualización de resultados de estudiantes.
-**QLabel**: Para textos y etiquetas en la interfaz.
-**QComboBox**: Lista desplegable de materias (Matemáticas, Lenguajes, Sociales, Ciencia)
-**QMessageBox**: Mensajes de alerta, confirmación e información al usuario.
+1. **QPushButton**: Botones de acción (Agregar, Calcular Promedio, Limpiar Lista)
+2. **QLineEdit**: Campos de entrada de texto para nombre y calificación.
+3. **QTextEdit**: Área de visualización de resultados de estudiantes.
+4. **QLabel**: Para textos y etiquetas en la interfaz.
+5. **QComboBox**: Lista desplegable de materias (Matemáticas, Lenguajes, Sociales, Ciencia)
+6. **QMessageBox**: Mensajes de alerta, confirmación e información al usuario.
